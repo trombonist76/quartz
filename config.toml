@@ -1,7 +1,8 @@
-baseURL = "https://quartz.jzhao.xyz/"
-languageCode = "en-us"
+baseURL = "https://trombonist76.github.io/quartz"
+languageCode = "tr-tr"
 relativeURLs = false
 disablePathToLower = true
+defaultContentLanguage = "tr"
 ignoreFiles = [
     "/content/templates/*",
     "/content/private/*",
